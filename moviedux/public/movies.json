@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Dark Storm",
+    "image": "1.png",
+    "genre": "drama",
+    "rating": "7.7"
+  },
+  {
+    "id": 2,
+    "title": "Crimson Skies",
+    "image": "2.png",
+    "genre": "action",
+    "rating": "8.5"
+  },
+  {
+    "id": 3,
+    "title": "Echoes of Time",
+    "image": "3.png",
+    "genre": "sci-fi",
+    "rating": "6.9"
+  },
+  {
+    "id": 4,
+    "title": "Whispering Shadows",
+    "image": "4.png",
+    "genre": "horror",
+    "rating": "5.8"
+  },
+  {
+    "id": 5,
+    "title": "Golden Mirage",
+    "image": "5.png",
+    "genre": "fantasy",
+    "rating": "9.1"
+  },
+  {
+    "id": 6,
+    "title": "Neon Vortex",
+    "image": "6.png",
+    "genre": "thriller",
+    "rating": "7.2"
+  },
+  {
+    "id": 7,
+    "title": "The Last Outlaw",
+    "image": "7.png",
+    "genre": "western",
+    "rating": "6.3"
+  },
+  {
+    "id": 8,
+    "title": "Frozen Echo",
+    "image": "8.png",
+    "genre": "mystery",
+    "rating": "8.0"
+  },
+  {
+    "id": 9,
+    "title": "Steel Horizon",
+    "image": "9.png",
+    "genre": "war",
+    "rating": "7.6"
+  },
+  {
+    "id": 10,
+    "title": "Shadow Circuit",
+    "image": "10.png",
+    "genre": "cyberpunk",
+    "rating": "9.4"
+  },
+  {
+    "id": 11,
+    "title": "Moonlit Tango",
+    "image": "11.png",
+    "genre": "romance",
+    "rating": "6.8"
+  },
+  {
+    "id": 12,
+    "title": "The Arcane Vault",
+    "image": "12.png",
+    "genre": "adventure",
+    "rating": "8.2"
+  },
+  {
+    "id": 13,
+    "title": "Phoenix Rising",
+    "image": "13.png",
+    "genre": "superhero",
+    "rating": "7.9"
+  },
+  {
+    "id": 14,
+    "title": "The Grand Heist",
+    "image": "14.png",
+    "genre": "crime",
+    "rating": "8.7"
+  },
+  {
+    "id": 15,
+    "title": "Endless Symphony",
+    "image": "15.png",
+    "genre": "musical",
+    "rating": "7.3"
+  },
+  {
+    "id": 16,
+    "title": "Titan's Arena",
+    "image": "16.png",
+    "genre": "sports",
+    "rating": "6.4"
+  },
+  {
+    "id": 17,
+    "title": "The Hidden Truth",
+    "image": "17.png",
+    "genre": "documentary",
+    "rating": "9.0"
+  },
+  {
+    "id": 18,
+    "title": "Dream Weaver",
+    "image": "18.png",
+    "genre": "animation",
+    "rating": "8.1"
+  },
+  {
+    "id": 19,
+    "title": "Lost Frequencies",
+    "image": "19.png",
+    "genre": "mystery",
+    "rating": "6.7"
+  },
+  {
+    "id": 20,
+    "title": "Cosmic Chronicles",
+    "image": "20.png",
+    "genre": "sci-fi",
+    "rating": "9.8"
+  }
+]
